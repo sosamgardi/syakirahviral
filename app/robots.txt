@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://syakirahviral.pages.dev/sitemap.xml
